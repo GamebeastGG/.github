@@ -17,6 +17,6 @@ Gamebeast empowers game developers with powerful analytics and live game managem
 * Real-time Updates - Push changes to live servers without downtime
 
 # 🌐 Learn More
-Visit gamebeast.gg to discover how we're helping game developers maximize their game's potential.
+Visit [gamebeast.gg](https://www.gamebeast.gg/) to discover how we're helping game developers maximize their game's potential.
 
 Building the future of game development and analytics
